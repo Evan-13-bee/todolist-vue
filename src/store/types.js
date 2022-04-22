@@ -1,0 +1,4 @@
+export const CHANGE_TASK_STATUS = 'CHANGE_TASK_STATUS';
+export const ADD_TASK = 'ADD_TASK';
+export const FILTER_TASKS = 'FILTER_TASKS';
+export const CLEAR_COMPLETED = 'CLEAR_COMPLETED';
